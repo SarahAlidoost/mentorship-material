@@ -6,8 +6,12 @@ overview of references to help mentees find the resources they need.
 
 ## Overview
 
-- [(Remote) collaborative code development, GitHub collaborative workflow](./slides/Remote_collaboration_github_workflow_21052025.pdf)
+- [(Remote) collaborative code development, and GitHub collaborative workflow](./slides/Remote_collaboration_github_workflow_21052025.pdf)
 -
+
+## References
+
+For an overview of references, check out this [document](https://github.com/SarahAlidoost/mentorship-material/blob/main/References.md).
 
 ## License note
 
