@@ -7,7 +7,7 @@ overview of references to help mentees find the resources they need.
 ## Overview
 
 - [(Remote) collaborative code development, and GitHub collaborative workflow](./slides/Remote_collaboration_github_workflow_21052025.pdf)
--
+- [Giving and receiving feedback,​ Modular code development and Python package structure​](./slides/Feedback_tips_python_module_25062025.pdf)
 
 ## References
 
